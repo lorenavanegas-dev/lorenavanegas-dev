@@ -15,7 +15,10 @@ mi trabajo en GitHub.
 
 ## Proyectos destacados
 -[Sistema de Notas](https://github.com/lorenavanegas-dev/sistema-notas.git)
--[Web Restaurante](
+-[Web Restaurante](https://github.com/lorenavanegas-dev/web-restaurante.git)
+
+## Contacto
+Email: carenvanegas13@gmail.com
 
 
 
