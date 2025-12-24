@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hola,  soy Lorena 👋
 
-<!--
-**lorenavanegas-dev/lorenavanegas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante y creadora de proyectos web.
+Me interesa aprender y aplicar tecnologías como 
+HTML, CSS, Python y desarrollo web. Me gusta crear
+sistemas prácticos y visualmente claros, y compartir
+mi trabajo en GitHub.
 
-Here are some ideas to get you started:
+## Habilidades y Tecnologías 
+-HTML / CSS
+-Git / GitHub
+-JavaScript (aprendiendo)
+-Python (aprendiendo)
+-Desarrollo web básico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+-
+
+
+
+
