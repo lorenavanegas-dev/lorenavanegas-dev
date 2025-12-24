@@ -14,7 +14,8 @@ mi trabajo en GitHub.
 -Desarrollo web básico
 
 ## Proyectos destacados
--
+-[Sistema de Notas](https://github.com/lorenavanegas-dev/sistema-notas.git)
+-[Web Restaurante](
 
 
 
